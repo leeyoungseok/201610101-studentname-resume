@@ -29,5 +29,9 @@
 ## 7. 팀 프로젝트
   * 종합설계1에서 XXX 프로젝트에서 조장으로 디자인스프린트 수행함(프론트엔드 개발)  
 ## 8. Comments by Mentors
-  * good job ! by Younsgeok Lee (yslee@cs-cnu.org) 20200814
-  * great job for the term project of Computer Network ! by Youngseok Lee (yslee@cs-cnu.org) 20200815
+  * 데이터통신
+     + 아날로그 소리를 이용하여 디지털 비트 데이터를 전송하는 파이썬과 자바(안드로이드)로 구현한 Pied Project(푸리에 변환, 아날로그-디지털 신호변환, 리드-솔로몬 오류정정코드기술) 숙제를 완료한 우수한 학생임: 이영석 교수 (yslee@cs-cnu.org) 20200814
+  * 컴퓨터네트워크
+     + 소켓 프로그래밍에서 블로킹/논블로킹, 다중화, 비동기 등의 구현 숙제를 충실하게 완성함: 이영석 교수 (yslee@cs-cnu.org) 20200815
+  * 알고리즘
+     + 총 13회에 걸쳐서 DOMJudge로 코딩테스트를 30문제 시험을 통과한 우수한 학생임: 이영서 교수 (yslee@cs-cnu.org) 20201210
