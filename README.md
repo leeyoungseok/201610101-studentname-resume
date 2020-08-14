@@ -1,17 +1,17 @@
 # 충남대 컴퓨터융합학부 학생 이력서/포트폴리오 테스트
 ## 1. 수업 프로젝트
-  * 3학년 1학기 데이터통신: Pied Piper!!! spring 2020
-  * 3학년 2학기 컴퓨터네트워크: Web-based IoT 제어 프로그램 풀스택 개발
-      + Backend: Node.js
-      + Frontend: JavaScript
-      + DevOps: AWS Cloud
+  * 3학년 1학기 데이터통신: Pied Piper!!
+      + 리눅스 -> 아날로그 소리 -> 안드로이드 비트 전송 후 아스키 코드 출력 프로그램 숙제
+  * 3학년 2학기 컴퓨터네트워크: Web-based IoT 제어 프로그램 
+      + 웹 채팅으로 스마트 전구 제어 프로그램 개발(Backend: Node.js, Frontend: JavaScript, DevOps: AWS Cloud, Hue API, TLS)
 ## 2. Programming skill 및 컴퓨터전공 지식
   * 2학년 1학기: 자료구조 자바로 코딩테스트 30문제 학습함
+  * 2학년 1학기: 선형대수학 학습함
   * 2학년 2학기: 알고리즘 파이썬으로 코딩테스트 30문제 학습함
   * 2학년 2학기: 웹프로그래밍 교과목에서 JavaScript로 웹 페이지 만들기로 학습함
   * 3학년 1학기: 프로그래밍 언어로 함수형 언어 학습함
-  * 3학년 2학기: 기계학습 교과목에서 A+
-  * 3학년 2학기: Socket Programming: blocking vs. nonblocking, Select, Asynchronous 
+  * 3학년 2학기: 기계학습 교과목에서 클러스터링 알고리즘 학습함
+  * 3학년 2학기: 컴퓨터네트워크에서 multi-thread vs. multi-process, blocking vs. nonblocking, select, Asynchronous Socket Programming으로 대규모 클라이언트 성능 평가 서버 프로그래밍 구조 학습
 ## 3. 수업외 전공학습 활동
   * 학과 Bottom-Up 경진대회: 2020년 8월 참가
   * 학과 Junior Software 경진대회: 2020년 1월 참가
